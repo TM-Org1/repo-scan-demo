@@ -1,9 +1,8 @@
 # Vulnado - Intentionally Vulnerable Java Application
-franky1
-
-franky
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 Because.
+
+booyeah
 
 ## Up and running
 
